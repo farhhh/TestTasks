@@ -11,6 +11,6 @@
 
 ```bash
 sudo apt install nginx -y        # Устанавливаем Nginx
-sudo systemctl enable nginx      # Ставим на автозапуск
+sudo systemctl enable nginx      # Сразу ставим на автозапуск
 systemctl status nginx           # Проверяем статус службы
 ```
