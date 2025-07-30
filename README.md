@@ -9,6 +9,8 @@
 
 ## Задание №1 Nginx
 
+![Статус nginx:](/Скриншоты/Задание 1 Nginx)
+
 Использованные команды:
 ```bash
 sudo apt install nginx -y        # Устанавливаем Nginx
