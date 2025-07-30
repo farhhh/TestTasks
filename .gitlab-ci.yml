@@ -1,0 +1,8 @@
+stages:                       # Определяем этапы пайплайна
+  - test
+
+test_nginx:                   # Задача для проверки Nginx
+  stage: test                 # Привязываем задачу к этапу
+  image: nginx:latest         # Используем образ Nginx
+  script:                     # Скрипт для проверки
+    - which nginx && nginx -v # Проверяем установку и версию Nginx
