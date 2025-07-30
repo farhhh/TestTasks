@@ -8,3 +8,5 @@
 ---
 
 ## Задание №1 Nginx
+
+<pre lang="markdown"> ```bash sudo apt install nginx -y # Устанавливаем Nginx sudo systemctl enable nginx # Ставим на автозапуск systemctl status nginx # Проверяем статус службы ``` </pre>
