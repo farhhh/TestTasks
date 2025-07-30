@@ -9,6 +9,7 @@
 
 ## Задание №1 Nginx
 
+Использованные команды:
 ```bash
 sudo apt install nginx -y        # Устанавливаем Nginx
 sudo systemctl enable nginx      # Сразу ставим на автозапуск
