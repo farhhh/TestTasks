@@ -38,5 +38,5 @@ systemctl status nginx           # Проверяем статус службы
 
 ---
 
-## Задание №2 Docker
+## Задание №3 Docker
 
