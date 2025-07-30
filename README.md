@@ -27,3 +27,8 @@ sudo apt install nginx -y        # Устанавливаем Nginx
 sudo systemctl enable nginx      # Сразу ставим на автозапуск
 systemctl status nginx           # Проверяем статус службы
 ```
+
+---
+
+## Задание №2 gitlab-ci.yml
+
